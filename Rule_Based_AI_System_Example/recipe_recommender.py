@@ -1,7 +1,7 @@
 
 # Dataset of recipes
 recipes = {
-    "Spaghetti Pomodoro": ["pasta", "tomatoes", "garlic", "olive oil"],
+    "Spaghetti Pomodoro": ["pasta1", "tomatoes", "garlic", "olive oil"],
     "Chicken Fried Rice": ["chicken", "rice", "garlic", "soy sauce"],
     "Pancakes": ["flour", "milk", "eggs", "sugar"],
     "Vegetable Stir-Fry": ["broccoli", "carrots", "soy sauce", "garlic", "ginger"],
